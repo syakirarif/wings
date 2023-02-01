@@ -1,0 +1,68 @@
+[
+  {
+    "product_code": "SKUSKILNP",
+    "product_name": "So Klin Pewangi",
+    "product_img": "",
+    "product_description": "Soklin Liquid Violet Blossom, dengan perpaduan perfum istimewa membuat Anda bisa menikmati kemewahan perfum kelas dunia setiap saat pada pakaian anda.",
+    "price": 60900,
+    "currency": "IDR",
+    "discount": 10,
+    "dimension": "13 cm x 10 cm",
+    "unit": "PCS"
+  },
+  {
+    "product_code": "",
+    "product_name": "",
+    "product_img": "",
+    "product_description": "",
+    "price": 0,
+    "currency": "IDR",
+    "discount": 0,
+    "dimension": "",
+    "unit": "PCS"
+  },
+  {
+    "product_code": "",
+    "product_name": "",
+    "product_img": "",
+    "product_description": "",
+    "price": 0,
+    "currency": "IDR",
+    "discount": 0,
+    "dimension": "",
+    "unit": "PCS"
+  },
+  {
+    "product_code": "",
+    "product_name": "",
+    "product_img": "",
+    "product_description": "",
+    "price": 0,
+    "currency": "IDR",
+    "discount": 0,
+    "dimension": "",
+    "unit": "PCS"
+  },
+  {
+    "product_code": "",
+    "product_name": "",
+    "product_img": "",
+    "product_description": "",
+    "price": 0,
+    "currency": "IDR",
+    "discount": 0,
+    "dimension": "",
+    "unit": "PCS"
+  },
+  {
+    "product_code": "",
+    "product_name": "",
+    "product_img": "",
+    "product_description": "",
+    "price": 0,
+    "currency": "IDR",
+    "discount": 0,
+    "dimension": "",
+    "unit": "PCS"
+  }
+]
